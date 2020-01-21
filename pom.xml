@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <spring-framwork.version>5.0.5.RELEASE</spring-framwork.version>
+        <spring-framwork.version>5.2.3.RELEASE</spring-framwork.version>
         <jcloverslf4j.version>1.7.6</jcloverslf4j.version>
         <logback.version>1.1.1</logback.version>
         <apachetiles.version>3.0.8</apachetiles.version>
