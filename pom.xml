@@ -11,7 +11,7 @@
     <properties>
         <spring-framwork.version>5.0.5.RELEASE</spring-framwork.version>
         <jcloverslf4j.version>1.7.6</jcloverslf4j.version>
-        <logback.version>1.1.1</logback.version>
+        <logback.version>1.2.0</logback.version>
         <apachetiles.version>3.0.8</apachetiles.version>
     </properties>
 
